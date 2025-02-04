@@ -1,4 +1,4 @@
-# dsa-in-cpp
+# DSA using C++
 A comprehensive collection of Data Structures and Algorithms (DSA) implemented in C++.
 
 ## 📌 Topics Covered
